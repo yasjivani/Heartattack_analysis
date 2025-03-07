@@ -30,3 +30,7 @@ This project executes 40+ SQL queries, including:
 - Stress levels and heart disease correlation  
 
 ## Project Structure
+📁 `heart-attack-analysis/`  
+│── `Heartattack_jupyternb.ipynb`  # Jupyter Notebook with SQL queries & analysis  
+│── `Interpretation of result.docx`  # Word file containing the analysis interpretation  
+│── `README.md`  # Project documentation 
